@@ -1,0 +1,82 @@
+body{
+    font-family: "Hanken Grotesk", sans-serif;
+}
+
+.container{
+    width: 40%;
+    box-shadow: 0.3em 0.3em 0.5em rgba(0, 0, 0, 0.37);
+    margin: 8% auto;
+    display: flex;
+}
+
+.section1{
+    background-color: #5d3efb;
+    text-align: center;
+    color: white;
+    display: block;
+    border-radius: 1em;
+}
+
+.p-section1{
+    padding-top: 2em;
+    font-size: large;
+    margin-bottom: -2em;
+}
+
+.div-section1{
+    width: 40%;
+    background: linear-gradient(rgba(0, 0, 0, 0.26), rgba(0, 0, 0, 0));
+    border-radius: 50%;
+    margin: auto;
+}
+
+h1{
+    padding-top: 0.6em;
+    font-size: 4em;
+    margin-bottom: -0.3em;
+}
+
+.p-div-section1{
+    color: #8c80ff;
+    padding-bottom: 2.5em;
+}
+
+.p2-section1{
+    width: 60%;
+    margin: auto;
+    padding-bottom: 2em;
+}
+
+.section2{
+    width: 50%;
+    padding: 2em;
+    display: block;
+    border-radius: 1em;
+}
+
+img{
+    padding: 1em;
+}
+
+.card1{
+    display: flex;
+    background-color: #fff6f5;
+    border-radius: 1em;
+    margin-bottom: 0.6em;
+}
+
+.p-card1{
+    color: #ec7773;
+    margin-right: 5em;
+}
+
+a{
+    text-decoration: none;
+    background-color: #303b59;
+    color: white;
+    padding: 1em;
+    display: block;
+    margin: auto;
+    text-align: center;
+    border-radius: 2em;
+}
